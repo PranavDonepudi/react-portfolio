@@ -19,28 +19,25 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                Earning my Master's degree from Rice University, I honed advanced software engineering skills, delving into machine learning and artificial intelligence. 
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Software Developer Intern</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                Presently at SBS CORP, my focus lies in leveraging my expertise in JavaScript frameworks and Information and Communications Technology (ICT) to innovate and optimize application deployment. 
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Software Engineer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+               With a passion for creating impactful user-centric software, I am eager to contribute to projects that challenge and expand my technical progress. Our team at DXC Technology thrived as I immersed myself in web application development, mastering JavaScript, HTML, CSS, and Node.js to deliver robust solutions to a diverse clientele.
               </p>
             </div>
           </li>
